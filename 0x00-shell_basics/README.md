@@ -4,3 +4,4 @@
 3-listfiles: Display current directory contents in long format
 4-listmorefiles: Display long list of contents in current directory with hidden files
 5-listfilesdigitonly: Display current directory content in order
+6-firstdirectory: makes script in /tmp/
