@@ -14,3 +14,4 @@
 13-symbolic_link: creates a link
 14-copy_html: copies html files with sone restrictons attached
 100-lets_move: moves
+101-clean_emacs: clear
