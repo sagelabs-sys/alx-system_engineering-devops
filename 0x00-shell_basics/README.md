@@ -12,3 +12,4 @@
 11-list: Abeg this thing lists files in order
 12-file_type: Displays type of file
 13-symbolic_link: creates a link
+14-copy_html: copies html files with sone restrictons attached
