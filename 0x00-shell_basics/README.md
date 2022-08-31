@@ -5,3 +5,4 @@
 4-listmorefiles: Display long list of contents in current directory with hidden files
 5-listfilesdigitonly: Display current directory content in order
 6-firstdirectory: makes script in /tmp/
+7-movethatfile: moves a file to a directory
