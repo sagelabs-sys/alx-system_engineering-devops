@@ -6,3 +6,4 @@
 5-listfilesdigitonly: Display current directory content in order
 6-firstdirectory: makes script in /tmp/
 7-movethatfile: moves a file to a directory
+8-firstdelete: Deletes betty file duhh
