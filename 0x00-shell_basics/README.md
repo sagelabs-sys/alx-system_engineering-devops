@@ -9,3 +9,4 @@
 8-firstdelete: Deletes betty file duhh
 9_firstdirdeletion: deletes directory
 10_back: Changes working dir to te previous one
+11-list: Abeg this thing lists files in order
