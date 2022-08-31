@@ -13,3 +13,4 @@
 12-file_type: Displays type of file
 13-symbolic_link: creates a link
 14-copy_html: copies html files with sone restrictons attached
+100-lets_move: moves
