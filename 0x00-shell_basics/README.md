@@ -7,3 +7,4 @@
 6-firstdirectory: makes script in /tmp/
 7-movethatfile: moves a file to a directory
 8-firstdelete: Deletes betty file duhh
+9_firstdirdeletion: deletes directory
