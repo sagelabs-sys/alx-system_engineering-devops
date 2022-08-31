@@ -10,3 +10,4 @@
 9_firstdirdeletion: deletes directory
 10_back: Changes working dir to te previous one
 11-list: Abeg this thing lists files in order
+12-file_type: Displays type of file
