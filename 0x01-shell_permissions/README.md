@@ -8,3 +8,4 @@
 7-everybody: gives everybody executie rights 
 8-james_bond: james bond babyyy 
 9-John_Doe: created mode changes 
+10_mirror_permissions: mirrors 
