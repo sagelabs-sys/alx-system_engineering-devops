@@ -13,3 +13,4 @@
 12-directory_permissions: does some stuffs 
 13-change_group: changes group 
 100-change_owner_and_group: changes people 
+101-symbolic_link_permissions: changes some stuff 
