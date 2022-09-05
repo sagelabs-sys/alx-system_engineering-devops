@@ -2,3 +2,4 @@
 1-confused_smiley: display emoji 
 2-hellofile: displays content 
 3-twofiles: displays content of two files 
+4-lastline: displays last 10 lines of files 
