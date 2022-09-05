@@ -4,3 +4,4 @@
 12-newest_files: sort newest files 
 13-unique: only prints unique words 
 14-findthatword: find that word 
+15-counthatword: counts word 
