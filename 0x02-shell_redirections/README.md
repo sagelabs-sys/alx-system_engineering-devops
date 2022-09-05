@@ -6,3 +6,4 @@
 5-firstlines: Displays first 10 lines of file 
 6-third_lines: prints third line in a file 
 7-file: creates a new file 
+8-cwd_state: writes content 
