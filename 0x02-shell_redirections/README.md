@@ -6,3 +6,4 @@
 14-findthatword: find that word 
 15-counthatword: counts word 
 16-whatsnext: yeah whats next 
+17-hidethisword: hides 
